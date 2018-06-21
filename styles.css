@@ -1,0 +1,36 @@
+#index-background{
+    background-color:rgba(175,50,230,0.31);
+}
+
+.button {
+    background-color:#701499;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    min-width: 380px;
+    max-width: 380px;
+    position: relative;
+     border-radius: 25px;
+}
+.img-thumbnail{
+    visibility: hidden;
+}
+#get:hover{
+    background-color: white;
+    color: black;
+}
+#index-button{
+   position: relative;
+   /*margin-top: 5%;*/
+   margin-bottom: auto;
+}
+#title{
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+}

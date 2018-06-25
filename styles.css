@@ -37,3 +37,6 @@
     position: relative;
     justify-content: center;
 }
+#LoginColor{
+    background-color: rgb(230,223,232)
+}

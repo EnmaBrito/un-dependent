@@ -1,0 +1,1 @@
+<footer><strong>&#169 Models Against Addictions 2018</strong></footer>

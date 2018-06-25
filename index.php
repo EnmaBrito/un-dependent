@@ -11,28 +11,33 @@ and open the template in the editor.
     <?php include("com-meta.php"); ?>
   </head>
   <body id="index-background">
-    <div class="screen">
-      <div class="container">
-      <h1 id="title">UN-DEPENDENT</h1>
-      </div>
-      <div id="index-button" class="container">
-        <div class="row">
-          <div class="col-lg-4">
-            <img class="img-thumbnail" src="https://png.icons8.com/metro/1600/floating-guru.png"/>
+    <div id="index-text" class="container ">
+      <div class="row justify-content-center">
+        <div class="col-lg-12">
+          <h1 id="title">UN-DEPENDENT</h1>
+          <h5 id="slogan">"UN-DEPENDENT IS FREEDOM"</h5>
+        </div>
+        <div class="col-lg-6">
+          <div>
+            <a href="registration-page.php" >
+              <button class="button">Get Started</button>
+            </a>
           </div>
-          <div class="col-lg-4">
-            <div>
-              <button id="get"class="button">GET STARTED</button>
-            </div>
-            <br>
-            <button class="button">LOG IN</button>
-            <div>
-              <br>
-            <button class="button">LOOK IN</button>
-            </div>
+          <br>
+          <div>
+            <a href="login.php" >
+              <button class="button">Log In</button>
+            </a>
+          </div>
+          <br>
+          <div>
+            <button class="button">Look In</button>
           </div>
         </div>
+
       </div>
     </div>
+
+    <?php include ('com-footer.php'); ?>
   </body>
 </html>

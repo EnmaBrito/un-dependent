@@ -25,7 +25,7 @@ and open the template in the editor.
           </div>
           <br>
           <div>
-            <a href="login.php" >
+            <a href="LoginPage.php" >
               <button class="button">Log In</button>
             </a>
           </div>

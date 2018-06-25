@@ -5,6 +5,7 @@
         <title></title>
          <?php include("com-meta.php"); ?>
     </head>
+    <body id="LoginColor">
   <div class="container">
       <div class="row justify content-center">
           
@@ -12,8 +13,7 @@
     <p class="lead">"UN-DEPENDENT IS FREEDOM</p>
   </div>
 </div>
-        
-        
+         
         
       
     </body>

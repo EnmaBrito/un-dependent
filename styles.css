@@ -30,6 +30,8 @@
     position: relative;
     justify-content: center;
     margin-top: 15%;
+    font-size: 90px;
+    font-weight:bold;
 
 }
 #slogan{
@@ -39,12 +41,4 @@
 }
 #LoginColor{
     background-color: rgb(230,223,232)
-}
-#title1{
-    text-align: center;
-    position: relative;
-    justify-content: center;
-    margin-top: 15%;
-    font-size: 90px;
-    font-weight:bold;
 }

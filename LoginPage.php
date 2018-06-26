@@ -9,7 +9,7 @@
         <div id="index-text" class="container ">
             <div class="row justify-content-center">
                 <div class="col-lg-12">
-                    <h1 id="title1">UN-DEPENDENT</h1>
+                    <h1 id="title">UN-DEPENDENT</h1>
                     <h5 id="slogan">"UN-DEPENDENT IS FREEDOM"</h5>
                     <br>
                 </div>

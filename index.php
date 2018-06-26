@@ -19,6 +19,7 @@ and open the template in the editor.
         </div>
         <div class="col-lg-6">
           <div>
+              <br>
             <a href="registration-page.php" >
               <button class="button">Get Started</button>
             </a>

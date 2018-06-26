@@ -5,7 +5,7 @@
            <?php include("com-meta.php"); ?>
         <title></title>
     </head>
-    <body>
+    <body id="LoginColor">
         <div class="container-fluid">
        <?php include("header.php"); ?>
     </div>

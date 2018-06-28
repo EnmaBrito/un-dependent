@@ -13,7 +13,14 @@
       <div class="row">
         <div class="col-lg-2 col-md-2 col-sm-12">
           <img id="avatar"class="img-responsive" src="images/user.png" >
+          <h5>FIRST AND LAST NAME</h5>
+          <form id="post">
+            <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="What are you feeling now?" rows="3">
+            </textarea>
+            <a class="btn btn-primary btn-lg" href="#" role="button">POST</a>
+          </form>
           <hr>
+          <img id="avatar"class="img-responsive" src="images/user.png" >
         </div> 
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="jumbotron">

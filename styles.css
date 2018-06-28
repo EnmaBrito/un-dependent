@@ -48,3 +48,7 @@
 #headers{
     background-color:rgb(157,0,223);    
 }
+#avatar{
+    width: 128px;
+    height: 128px;
+}

@@ -20,7 +20,7 @@
                             </div>
                         </div>
                         <br>
-                        <input type="email" class="form-control" placeholder="Email"><br>
+                        <input type="email" class="form-control" placeholder="Email" ><br>
                         <input type="password" class="form-control"  placeholder="Password">
                         <br>
                     </form>

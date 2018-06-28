@@ -19,7 +19,7 @@ and open the template in the editor.
         </div>
         <div class="col-lg-6">
           <div>
-              <br>
+            <br>
             <a href="registration-page.php" >
               <button class="button">Get Started</button>
             </a>
@@ -32,7 +32,9 @@ and open the template in the editor.
           </div>
           <br>
           <div>
-            <button class="button">Look In</button>
+            <a href="Homepage.php">
+              <button class="button">Look In</button>
+            </a>
           </div>
         </div>
 

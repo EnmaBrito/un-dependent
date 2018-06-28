@@ -20,7 +20,9 @@
             <a class="btn btn-primary btn-lg" href="#" role="button">POST</a>
           </form>
           <hr>
-          <img id="avatar"class="img-responsive" src="images/user.png" >
+         
+  
+          <img id="icons"class="img-responsive" src="images/chat.png" >
         </div> 
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="jumbotron">

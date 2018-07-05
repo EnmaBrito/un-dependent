@@ -49,7 +49,11 @@
                         </p>
                     </div>
                 </div>
-
+                
+                <div class="col-lg-2 col-md-2 col-sm-12">
+                    <img id="icons"class="img-responsive" src="images/text-lines.png" > 
+                        <h4>News</h4> 
+                </div>
             </div>
         </div>
 
